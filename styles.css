@@ -1,2 +1,12 @@
-
+#cont{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    background-color: black;
+}
+.one{
+    width: 100px;
+    display: flex;
+    background-color: aqua;
+}
 /* Your CSS Code here. */

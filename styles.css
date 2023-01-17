@@ -1,5 +1,5 @@
 .holder{
-    display: block;
+    display: flex;
     justify-content: space-between;
     flex-direction: row;
     background-color: black;
